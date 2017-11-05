@@ -1,0 +1,30 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "Blog API practice",
+  "main": "models.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ddoty89/Blog-API.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "uuid",
+    "bodyparse"
+  ],
+  "author": "DDoty89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ddoty89/Blog-API/issues"
+  },
+  "homepage": "https://github.com/Ddoty89/Blog-API#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "uuid": "^3.1.0"
+  }
+}
